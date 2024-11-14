@@ -1,12 +1,11 @@
 {
-    "display_name": "Waifuverse Chat",
+    "display_name": "Simplified Chat Interface",
     "loading_order": 1,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "html": "index.html",
-    "author": "Jake Hunter",
+    "author": "Your Extension Name",
     "version": "1.0.0",
-    "homePage": "https://yourwaifuverse.com"
+    "auto_update": true
 }
