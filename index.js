@@ -1,5 +1,5 @@
-import { getContext } from "../../../../public/scripts/extensions.js"; // Corrected path
-import { eventSource, event_types } from "../../../../public/scripts/script.js"; // Corrected path
+import { getContext } from "/scripts/extensions.js";
+import { eventSource, event_types } from "/scripts/script.js";
 
 class SimplifiedChatInterface {
     constructor() {
